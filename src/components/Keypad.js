@@ -1,16 +1,16 @@
 // Code Keypad Component Here
-import { Component } from "react";
+// import { Component } from "react";
 
-export default class Keypad extends Component {
-  constructor() {
-    super();
-  }
+// export default class Keypad extends React.component {
+//   constructor() {
+//     super();
+//   }
 
-  render() {
-    return (
-      <div>
-        <input type="password" onKeyUp={console.log("entering password...")} />
-      </div>
-    );
-  }
-}
+//   render() {
+//     return (
+//       <div>
+//         <input type="password" onKeyUp={console.log("entering password...")} />
+//       </div>
+//     );
+//   }
+// }
