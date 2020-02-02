@@ -6,6 +6,7 @@ import EyesOnMe from './components/EyesOnMe';
 
 ReactDOM.render(
   <div>
+    This is the Top-Teir application, the main parent.
     <Keypad />
     <EyesOnMe />
   </div>,
